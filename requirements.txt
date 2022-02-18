@@ -1,0 +1,5 @@
+numpy
+pandas 
+seqeval==1.2.2
+torch==1.10.0
+transformers==4.15.0
